@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🎯 Interests
 - Data Analysis (Python & SQL)  
 - LLM Agents & AI (LangChain)
-- Business 
+- Data-driven Decision Making in Business 
 
 ## 🎓 Education
 - Korea University Business School & Statistics (2020.03 ~ )
