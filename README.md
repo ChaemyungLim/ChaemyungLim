@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ## 🎯 Interests
 - Data Analysis (Python & SQL)  
-- LLM Agents & AI (LangChain)
+- LLM & AI Agents (LangChain)
 - Data-driven Decision Making in Business 
 
 ## 🎓 Education
-- Korea University Business School & Statistics (2020.03 ~ )
+- Korea University Business School & Statistics (2020.03 ~ 2026.02)
 
 ## 💻 Computer Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
